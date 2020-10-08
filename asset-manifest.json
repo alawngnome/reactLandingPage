@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactLandingPage/static/css/main.54f9325b.chunk.css",
+    "main.js": "/reactLandingPage/static/js/main.894dc568.chunk.js",
+    "main.js.map": "/reactLandingPage/static/js/main.894dc568.chunk.js.map",
+    "runtime-main.js": "/reactLandingPage/static/js/runtime-main.21288cc4.js",
+    "runtime-main.js.map": "/reactLandingPage/static/js/runtime-main.21288cc4.js.map",
+    "static/js/2.7b00b6d6.chunk.js": "/reactLandingPage/static/js/2.7b00b6d6.chunk.js",
+    "static/js/2.7b00b6d6.chunk.js.map": "/reactLandingPage/static/js/2.7b00b6d6.chunk.js.map",
+    "index.html": "/reactLandingPage/index.html",
+    "precache-manifest.2b202013778dbbce7ee7d3e4fbf18eca.js": "/reactLandingPage/precache-manifest.2b202013778dbbce7ee7d3e4fbf18eca.js",
+    "service-worker.js": "/reactLandingPage/service-worker.js",
+    "static/css/main.54f9325b.chunk.css.map": "/reactLandingPage/static/css/main.54f9325b.chunk.css.map",
+    "static/js/2.7b00b6d6.chunk.js.LICENSE.txt": "/reactLandingPage/static/js/2.7b00b6d6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reactLandingPage/static/media/scheduleAlt.bacca9bc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21288cc4.js",
+    "static/js/2.7b00b6d6.chunk.js",
+    "static/css/main.54f9325b.chunk.css",
+    "static/js/main.894dc568.chunk.js"
+  ]
+}
